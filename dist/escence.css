@@ -1,0 +1,30 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body
+{
+  overflow: hidden;
+  background: black;
+}
+
+.webgl
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+.badge-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/*# sourceMappingURL=escence.css.map*/
